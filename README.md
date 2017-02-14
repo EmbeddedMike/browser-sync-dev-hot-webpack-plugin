@@ -1,5 +1,7 @@
 # browser-sync-dev-hot-webpack-plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/itgalaxy/browser-sync-dev-hot-webpack-plugin.svg)](https://greenkeeper.io/)
+
 Combines BrowserSync, webpack-dev-middleware, and webpack-hot-middleware into one plugin.
 
 ## Install
